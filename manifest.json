@@ -6,7 +6,7 @@
          "48": "icon48.png"
       },
       "default_popup": "popup.html",
-      "default_title": "Fiverr Seller Assistant"
+      "default_title": "Fiverr Analytics Assistant"
    },
    "background": {
       "service_worker": "background.js",
@@ -17,15 +17,15 @@
       "js": [ "assets/jquery-3.5.1.min.js", "logic.js" ],
       "matches": [ "https://www.fiverr.com/*", "https://www.fiverrpromotion.net/*" ]
    } ],
-   "description": "Fiverr Seller Assistant - View Buyer details when sending buyer request",
+   "description": "Fiverr Analytics Assistant - View Buyer details when sending buyer request",
    "host_permissions": [ "https://www.fiverr.com/*", "https://www.fiverrpromotion.net/*" ],
    "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqOCJEEZV2DpMKUdydM7H1mTbOZUSFLZZCCaia+SmIa42VaXUrsJqK2UhcsYj8RGPzn6kFwA6vGA5IxMjKB2dOvpogfChRF/U4cB7jYYv2Vs+P+AB3IAXXfjSSgXB+MO1vU5WhzrOYzg4GfyeGJbRNjuJckUGHCuF2UOuRE3FS2WLg2iJhYliM0mW9bxw9PSgjnk+EC6ef9paRvlZnVwUwoZnDELRpgtM1gynNfiqyg/RQF/QixPu0WeI7jYgmfjz5M8htrzyo8B46hamqksXBr8AxT2M+OBuRRh5XFcfpRuflZ9lgSgZHgQiI9CQH6LB29A7yLCpi7v02/fuwrvGQQIDAQAB",
    "manifest_version": 3,
-   "name": "Fiverr Seller Assistant",
+   "name": "Fiverr Analytics Assistant",
    "permissions": [ "storage" ],
    "short_name": "FSA",
    "update_url": "https://clients2.google.com/service/update2/crx",
-   "version": "2.0.4",
+   "version": "0.1.0",
    "web_accessible_resources": [ {
       "matches": [ "https://www.fiverr.com/*" ],
       "resources": [ "images/001-checkout.png", "images/002-shopping-bag.png", "images/001-clock.png", "images/002-placeholder.png", "images/003-heart.png", "images/001-alarm.png", "images/notification.png", "images/notification-tone.mp3", "images/favicon-32x32.png", "images/001-ranking.png", "images/002-promotion-1.png", "images/003-promotion.png", "images/tip-icon.png" ]

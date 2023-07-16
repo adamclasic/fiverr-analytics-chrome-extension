@@ -21,6 +21,12 @@ let searchWord = '';
 //AA custom code end
 
 $(document).ready(function() {
+    //AA custom code
+
+    totalGigs = parseFloat(document.querySelector('.number-of-results').innerText.split(' ')[0].replace(/,/g, ''))
+    searchWord = document.querySelector('form.search-form > input').value
+    //AA custom code end
+
     var countPages = 0;
     //getting user permission
     var permission = "";
@@ -821,7 +827,7 @@ function putGigData(result, gigNum) {
     totalPrices = totalPrices + result.packages.packageList[0].price 
     totalGigsOnPage++
     console.log(
-        searchWord.replace(' ', '_'),
+        searchWord.replaceAll(' ', '_'),
         totalOrders,
         (totalPrices/100),
         totalGigs,

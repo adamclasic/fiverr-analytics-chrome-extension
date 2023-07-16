@@ -1,0 +1,1049 @@
+{
+  "general": {
+    "gigId": 119443276,
+    "gigStatus": "approved",
+    "categoryId": 10,
+    "categoryName": "Programming \u0026 Tech",
+    "categorySlug": "programming-tech",
+    "subCategoryId": 139,
+    "subCategoryName": "E-Commerce Development",
+    "subCategorySlug": "ecommerce-services",
+    "nestedSubCategoryId": 1008,
+    "nestedSubCategorySlug": "theme-plugin-installation",
+    "isOnVacation": false,
+    "isBuyerBlocked": false,
+    "isPro": true,
+    "isHandpicked": false,
+    "isStudio": false,
+    "gigTitle": "install and setup shopify theme with in 24 hours",
+    "encryptedGigId": "FG12398CC7C4",
+    "sellerId": 68245375,
+    "traffiqed": false,
+    "isSellerBlocked": false,
+    "gigVisibleToSeller": true,
+    "gigVisibleToBuyer": true,
+    "isTrustedUser": false,
+    "includeWorkSample": true
+  },
+  "outOfOffice": {
+    "username": "ahmadideas",
+    "sellerId": 68245375,
+    "isOnVacation": false,
+    "endDate": null,
+    "profilePhoto": "https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/10f1e9c0724d52a3c66b950301d54e3f-1534173133439/f3f7db56-650b-49af-8409-371b0792f219.png",
+    "allowContact": true,
+    "awayReason": null,
+    "awayMessage": null,
+    "gigId": 119443276
+  },
+  "sellerCard": {
+    "oneLiner": "Shopify Certified Expert and Partner",
+    "rating": 5,
+    "achievement": 0,
+    "ratingsCount": 70,
+    "countryCode": "PK",
+    "proficientLanguages": [
+      { "name": "en", "level": 3 },
+      { "name": "ur", "level": 4 },
+      { "name": "pa", "level": 4 }
+    ],
+    "memberSince": 1521203685,
+    "responseTime": 21,
+    "recentDelivery": 1671536239000,
+    "description": "My name is Ahmad, I am a certified Shopify expert have more than 12 years of experience and I love Shopify challenges, solve even complex problems, build websites that converts, small theme tweaks, dropshipping setup, and long-term customer support. I help with everything you might need in Shopify.",
+    "isPro": true,
+    "proSubCategories": [{ "id": 139, "name": "E-Commerce Development" }],
+    "hasProfilePhoto": true,
+    "profilePhoto": "https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/10f1e9c0724d52a3c66b950301d54e3f-1534173133439/f3f7db56-650b-49af-8409-371b0792f219.png"
+  },
+  "description": {
+    "content": "\u003cp\u003e\u003cstrong\u003eA Bit About Me\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eI am a Shopify certified expert with more than 12 years of experience. I’ve developed websites for different industries including fashion and apparel, electronics, food \u0026amp; grocery, art \u0026amp; painting and mega stores. Also, I’ve developed RTL supported themes for my various clients.\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eWhat you'll get?\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eIf you are new to the world of Shopify and just want to start your online store with a professional theme setup. I'll create your store on development mode and install the most suitable theme with your own content.\u0026nbsp;\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cu\u003eSetup aesthetics\u003c/u\u003e:\u003c/p\u003e\u003cul\u003e\u003cli\u003eColors\u003c/li\u003e\u003cli\u003eTypography\u003c/li\u003e\u003cli\u003eBackgrounds\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cu\u003eSetup page layouts for\u003c/u\u003e:\u003c/p\u003e\u003cul\u003e\u003cli\u003eHomepage\u003c/li\u003e\u003cli\u003eCollection page\u003c/li\u003e\u003cli\u003eProduct page\u003c/li\u003e\u003cli\u003eCart page\u003c/li\u003e\u003cli\u003eCheckout\u003c/li\u003e\u003cli\u003eContact form\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eWork Process\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e\u003cli\u003ePlace an order\u003c/li\u003e\u003cli\u003eProvide business needs, content and discuss work scope\u003c/li\u003e\u003cli\u003eGet your website up and running within 24 hours\u003c/li\u003e\u003cli\u003eReview and launch your store\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eWhy Shopify?\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eShopify provides secure checkout and back-office with SSL installed, where you can manage products, inventory, payments, and shipping very easily.\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003eIf you want help getting there then let’s talk!\u003c/p\u003e",
+    "metadataAttributes": [
+      {
+        "name": "platform",
+        "options": ["shopify"],
+        "metadata": {
+          "name": "platform",
+          "alias": "Platform",
+          "translationKey": "metadata.category_1008.platform.title",
+          "visibility": "marketplace",
+          "order": 10,
+          "metadataOptions": {
+            "magento": {
+              "name": "magento",
+              "alias": "Magento",
+              "translationKey": "metadata.category_1008.platform.options.magento",
+              "order": 10
+            },
+            "shopify": {
+              "name": "shopify",
+              "alias": "Shopify",
+              "translationKey": "metadata.category_1008.platform.options.shopify",
+              "order": 20
+            },
+            "opencart": {
+              "name": "opencart",
+              "alias": "Opencart",
+              "translationKey": "metadata.category_1008.platform.options.opencart",
+              "order": 30
+            },
+            "prestashop": {
+              "name": "prestashop",
+              "alias": "Prestashop",
+              "translationKey": "metadata.category_1008.platform.options.prestashop",
+              "order": 40
+            },
+            "bigcommerce": {
+              "name": "bigcommerce",
+              "alias": "BigCommerce",
+              "translationKey": "metadata.category_1008.platform.options.bigcommerce",
+              "order": 50
+            },
+            "woocommerce": {
+              "name": "woocommerce",
+              "alias": "WooCommerce",
+              "translationKey": "metadata.category_1008.platform.options.woocommerce",
+              "order": 60
+            },
+            "vtex": {
+              "name": "vtex",
+              "alias": "VTEX",
+              "translationKey": "metadata.category_1008.platform.options.vtex",
+              "order": 70
+            },
+            "wix": {
+              "name": "wix",
+              "alias": "Wix",
+              "translationKey": "metadata.category_1008.platform.options.wix",
+              "order": 80
+            },
+            "sitebuilder": {
+              "name": "sitebuilder",
+              "alias": "Sitebuilder",
+              "translationKey": "metadata.category_1008.platform.options.sitebuilder",
+              "order": 90
+            },
+            "volusion": {
+              "name": "volusion",
+              "alias": "Volusion",
+              "translationKey": "metadata.category_1008.platform.options.volusion",
+              "order": 100
+            },
+            "squarespace": {
+              "name": "squarespace",
+              "alias": "Squarespace",
+              "translationKey": "metadata.category_1008.platform.options.squarespace",
+              "order": 110
+            },
+            "webflow": {
+              "name": "webflow",
+              "alias": "Webflow",
+              "translationKey": "metadata.category_1008.platform.options.webflow",
+              "order": 120
+            },
+            "shopware": {
+              "name": "shopware",
+              "alias": "Shopware",
+              "translationKey": "metadata.category_1008.platform.options.shopware",
+              "order": 130
+            },
+            "ecwid": {
+              "name": "ecwid",
+              "alias": "Ecwid",
+              "translationKey": "metadata.category_1008.platform.options.ecwid",
+              "order": 140
+            },
+            "oscommerce": {
+              "name": "oscommerce",
+              "alias": "OsCommerce",
+              "translationKey": "metadata.category_1008.platform.options.oscommerce",
+              "order": 150
+            },
+            "big_cartel": {
+              "name": "big_cartel",
+              "alias": "Big Cartel",
+              "translationKey": "metadata.category_1008.platform.options.big_cartel",
+              "order": 160
+            },
+            "samcart": {
+              "name": "samcart",
+              "alias": "SamCart",
+              "translationKey": "metadata.category_1008.platform.options.samcart",
+              "order": 170
+            },
+            "other": {
+              "name": "other",
+              "alias": "Other",
+              "translationKey": "metadata.category_1008.platform.options.other",
+              "order": 180
+            }
+          }
+        }
+      },
+      {
+        "name": "supported_plugin_types",
+        "options": [
+          "social_media",
+          "customer_support",
+          "shipping",
+          "analytics"
+        ],
+        "metadata": {
+          "name": "supported_plugin_types",
+          "alias": "Supported plugin types",
+          "translationKey": "metadata.category_1008.supported_plugin_types.title",
+          "visibility": "marketplace",
+          "order": 20,
+          "metadataOptions": {
+            "marketing": {
+              "name": "marketing",
+              "alias": "Marketing",
+              "translationKey": "metadata.category_1008.supported_plugin_types.options.marketing",
+              "order": 10
+            },
+            "payment": {
+              "name": "payment",
+              "alias": "Payment",
+              "translationKey": "metadata.category_1008.supported_plugin_types.options.payment",
+              "order": 20
+            },
+            "forum": {
+              "name": "forum",
+              "alias": "Forum",
+              "translationKey": "metadata.category_1008.supported_plugin_types.options.forum",
+              "order": 30
+            },
+            "social_media": {
+              "name": "social_media",
+              "alias": "Social media",
+              "translationKey": "metadata.category_1008.supported_plugin_types.options.social_media",
+              "order": 40
+            },
+            "customer_support": {
+              "name": "customer_support",
+              "alias": "Customer support",
+              "translationKey": "metadata.category_1008.supported_plugin_types.options.customer_support",
+              "order": 50
+            },
+            "shipping": {
+              "name": "shipping",
+              "alias": "Shipping",
+              "translationKey": "metadata.category_1008.supported_plugin_types.options.shipping",
+              "order": 60
+            },
+            "inventory": {
+              "name": "inventory",
+              "alias": "Inventory",
+              "translationKey": "metadata.category_1008.supported_plugin_types.options.inventory",
+              "order": 70
+            },
+            "analytics": {
+              "name": "analytics",
+              "alias": "Analytics",
+              "translationKey": "metadata.category_1008.supported_plugin_types.options.analytics",
+              "order": 80
+            },
+            "dropshipping": {
+              "name": "dropshipping",
+              "alias": "Dropshipping",
+              "translationKey": "metadata.category_1008.supported_plugin_types.options.dropshipping",
+              "order": 90
+            },
+            "membership": {
+              "name": "membership",
+              "alias": "Membership",
+              "translationKey": "metadata.category_1008.supported_plugin_types.options.membership",
+              "order": 100
+            },
+            "finance": {
+              "name": "finance",
+              "alias": "Finance",
+              "translationKey": "metadata.category_1008.supported_plugin_types.options.finance",
+              "order": 110
+            },
+            "video": {
+              "name": "video",
+              "alias": "Video",
+              "translationKey": "metadata.category_1008.supported_plugin_types.options.video",
+              "order": 120
+            },
+            "form": {
+              "name": "form",
+              "alias": "Form",
+              "translationKey": "metadata.category_1008.supported_plugin_types.options.form",
+              "order": 130
+            },
+            "events": {
+              "name": "events",
+              "alias": "Events",
+              "translationKey": "metadata.category_1008.supported_plugin_types.options.events",
+              "order": 140
+            },
+            "music": {
+              "name": "music",
+              "alias": "Music",
+              "translationKey": "metadata.category_1008.supported_plugin_types.options.music",
+              "order": 150
+            },
+            "chat": {
+              "name": "chat",
+              "alias": "Chat",
+              "translationKey": "metadata.category_1008.supported_plugin_types.options.chat",
+              "order": 160
+            },
+            "map": {
+              "name": "map",
+              "alias": "Map",
+              "translationKey": "metadata.category_1008.supported_plugin_types.options.map",
+              "order": 170
+            },
+            "faq": {
+              "name": "faq",
+              "alias": "FAQ",
+              "translationKey": "metadata.category_1008.supported_plugin_types.options.faq",
+              "order": 180
+            },
+            "gallery": {
+              "name": "gallery",
+              "alias": "Gallery",
+              "translationKey": "metadata.category_1008.supported_plugin_types.options.gallery",
+              "order": 190
+            },
+            "other": {
+              "name": "other",
+              "alias": "Other",
+              "translationKey": "metadata.category_1008.supported_plugin_types.options.other",
+              "order": 200
+            }
+          }
+        }
+      }
+    ]
+  },
+  "gallery": {
+    "slides": [
+      {
+        "slide": {
+          "name": "install and setup shopify theme with in 24 hours",
+          "src": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/119443276/original/57636cbade706ad81411dab3a243c7bd9dbb2bef/setup-shopify-store-shopify-website-and-shopify-theme-in-24-hours.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs/119443276/original/57636cbade706ad81411dab3a243c7bd9dbb2bef/setup-shopify-store-shopify-website-and-shopify-theme-in-24-hours.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/119443276/original/57636cbade706ad81411dab3a243c7bd9dbb2bef/setup-shopify-store-shopify-website-and-shopify-theme-in-24-hours.png",
+            "original": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/119443276/original/57636cbade706ad81411dab3a243c7bd9dbb2bef/setup-shopify-store-shopify-website-and-shopify-theme-in-24-hours.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs/119443276/original/57636cbade706ad81411dab3a243c7bd9dbb2bef/setup-shopify-store-shopify-website-and-shopify-theme-in-24-hours.png",
+          "isWorkSample": false,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "119443276_1",
+          "typeImage": true,
+          "filename": "57636cbade706ad81411dab3a243c7bd9dbb2bef.png"
+        }
+      },
+      {
+        "slide": {
+          "name": "install and setup shopify theme with in 24 hours",
+          "src": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs2/119443276/original/c72c79f262e29e789150e94c4d46d99edea3f51d/setup-shopify-store-shopify-website-and-shopify-theme-in-24-hours.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs2/119443276/original/c72c79f262e29e789150e94c4d46d99edea3f51d/setup-shopify-store-shopify-website-and-shopify-theme-in-24-hours.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs2/119443276/original/c72c79f262e29e789150e94c4d46d99edea3f51d/setup-shopify-store-shopify-website-and-shopify-theme-in-24-hours.png",
+            "original": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs2/119443276/original/c72c79f262e29e789150e94c4d46d99edea3f51d/setup-shopify-store-shopify-website-and-shopify-theme-in-24-hours.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs2/119443276/original/c72c79f262e29e789150e94c4d46d99edea3f51d/setup-shopify-store-shopify-website-and-shopify-theme-in-24-hours.png",
+          "isWorkSample": false,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "119443276_2",
+          "typeImage": true,
+          "filename": "c72c79f262e29e789150e94c4d46d99edea3f51d.png"
+        }
+      },
+      {
+        "slide": {
+          "name": "install and setup shopify theme with in 24 hours",
+          "src": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs3/119443276/original/393baa4ce6d4479b05c4a96028fcd35331d0c8e0/setup-shopify-store-shopify-website-and-shopify-theme-in-24-hours.png",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs3/119443276/original/393baa4ce6d4479b05c4a96028fcd35331d0c8e0/setup-shopify-store-shopify-website-and-shopify-theme-in-24-hours.png",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs3/119443276/original/393baa4ce6d4479b05c4a96028fcd35331d0c8e0/setup-shopify-store-shopify-website-and-shopify-theme-in-24-hours.png",
+            "original": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs3/119443276/original/393baa4ce6d4479b05c4a96028fcd35331d0c8e0/setup-shopify-store-shopify-website-and-shopify-theme-in-24-hours.png"
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_thumbnail3_3,q_auto,f_auto/gigs3/119443276/original/393baa4ce6d4479b05c4a96028fcd35331d0c8e0/setup-shopify-store-shopify-website-and-shopify-theme-in-24-hours.png",
+          "isWorkSample": false,
+          "itemScopeType": "ImageSlide",
+          "attachmentId": "119443276_3",
+          "typeImage": true,
+          "filename": "393baa4ce6d4479b05c4a96028fcd35331d0c8e0.png"
+        }
+      },
+      {
+        "slide": {
+          "name": "install and setup shopify theme with in 24 hours",
+          "src": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_gig_pdf_gallery_view_ver4,q_auto,f_auto/attachments/delivery/asset/fc7f23f7a5df7ef4e3a45bf24d92ef0e-1601217716/Besnard%20la%20Haye%20--%20Documentation/setup-shopify-store-shopify-website-and-shopify-theme-in-24-hours.pdf",
+          "media": {
+            "small": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_gig_pdf_thumb_ver3,q_auto,f_auto/attachments/delivery/asset/fc7f23f7a5df7ef4e3a45bf24d92ef0e-1601217716/Besnard%20la%20Haye%20--%20Documentation/setup-shopify-store-shopify-website-and-shopify-theme-in-24-hours.pdf",
+            "medium": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_gig_pdf_gallery_view_ver4,q_auto,f_auto/attachments/delivery/asset/fc7f23f7a5df7ef4e3a45bf24d92ef0e-1601217716/Besnard%20la%20Haye%20--%20Documentation/setup-shopify-store-shopify-website-and-shopify-theme-in-24-hours.pdf",
+            "pages": [
+              "https://fiverr-res.cloudinary.com/images/t_smartwm/t_gig_pdf_page_1_v1,q_auto,f_auto/attachments/delivery/asset/fc7f23f7a5df7ef4e3a45bf24d92ef0e-1601217716/Besnard%20la%20Haye%20--%20Documentation/setup-shopify-store-shopify-website-and-shopify-theme-in-24-hours.pdf"
+            ]
+          },
+          "thumbnail": "https://fiverr-res.cloudinary.com/images/t_smartwm/t_gig_pdf_thumb_ver3,q_auto,f_auto/attachments/delivery/asset/fc7f23f7a5df7ef4e3a45bf24d92ef0e-1601217716/Besnard%20la%20Haye%20--%20Documentation/setup-shopify-store-shopify-website-and-shopify-theme-in-24-hours.pdf",
+          "isWorkSample": true,
+          "itemScopeType": "PdfSlide",
+          "attachmentId": "119741307",
+          "orderId": 498116483,
+          "typePdf": true
+        }
+      }
+    ]
+  },
+  "faq": {
+    "questionsAndAnswers": [
+      {
+        "question": "What makes me a PRO seller?",
+        "answer": "I am Shopify certified experts since 2013 and I love Shopify challenges, solve even complex problems, build websites that converts, theme alterations, custom theme development, dropshipping setup and provide long-term customer support. I help with everything you might need in Shopify."
+      },
+      {
+        "question": "Why should I choose Shopify to build my store?",
+        "answer": "With Shopify’s ecommerce software, you get one unified platform to run your business with ease. It is a complete solution for ecommerce business and let you organize your products, customers, orders, discounts, customize your storefront and lots more."
+      },
+      {
+        "question": "How can I choose right theme for my store?",
+        "answer": "I help you in this case, however you should keep in mind an easy experience for your customers, desired features for your store, competitor’s website design and how products should be displayed. Don’t base your choice on theme colors or fonts, as these things can be customized later."
+      },
+      {
+        "question": "Will you provide premium theme for my website?",
+        "answer": "Cost of premium theme is not included in this gig. I'll create your store and install premium theme in development mode once I'll complete everything I'll handover to you so that you can buy Shopify plan and installed theme."
+      },
+      {
+        "question": "What is not included in this gig?",
+        "answer": "Any kind of back office work i.e content uploading, creating collections, adding products etc, and development, programming or coding related work is not included. If you need custom requirements I can create custom offer for you kindly contact me."
+      },
+      {
+        "question": "What if I need maintenance and support services?",
+        "answer": "We offer 1 week free technical support after completion of the project. You may purchase further on going support and maintenance services."
+      },
+      {
+        "question": "I need custom theme development what should I do?",
+        "answer": "In this case you may contact me with your detailed requirements for custom theme. I'll create a custom offer for you. Or If you are looking for complete website setup you may check out my other gig."
+      },
+      {
+        "question": "Can you help with SSL certificate?",
+        "answer": "Sure, SSL certificates are activated by default in Shopify for your store's checkout, and for any content that's hosted on Shopify."
+      },
+      {
+        "question": "What is a revision?",
+        "answer": "Revisions are required changes to an existing work I did."
+      }
+    ]
+  },
+  "packages": {
+    "packageList": [
+      {
+        "id": 1,
+        "title": "Mini Setup for Startups",
+        "description": "Shopify store creation and Theme installation with professional setup for Startups",
+        "price": 35000,
+        "duration": 72,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": {
+          "id": 119443394,
+          "name": "modifications",
+          "included": true,
+          "value": 2,
+          "price": 0,
+          "extra": 2
+        },
+        "extraFast": {
+          "id": 248133238,
+          "name": "extra_fast",
+          "included": false,
+          "duration": 24,
+          "value": 0,
+          "price": 10000,
+          "isPopular": true
+        },
+        "features": [
+          {
+            "id": 119689266,
+            "name": "theme_installation",
+            "duration": 0,
+            "included": true,
+            "label": "Theme installation",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": []
+      },
+      {
+        "id": 2,
+        "title": "Theme Customization",
+        "description": "Theme installation and layout adjustment to match with your brand",
+        "price": 50000,
+        "duration": 120,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": {
+          "id": 119443394,
+          "name": "modifications",
+          "included": true,
+          "value": 2,
+          "price": 0,
+          "extra": 2
+        },
+        "extraFast": {
+          "id": 248133238,
+          "name": "extra_fast",
+          "included": false,
+          "duration": 48,
+          "value": 0,
+          "price": 17500,
+          "isPopular": true
+        },
+        "features": [
+          {
+            "id": 119689266,
+            "name": "theme_installation",
+            "duration": 0,
+            "included": true,
+            "label": "Theme installation",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 119689267,
+            "name": "plugins_extensions_installation",
+            "duration": 0,
+            "included": true,
+            "label": "Plugins/extensions installation",
+            "value": 1,
+            "extra": 1,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": []
+      },
+      {
+        "id": 3,
+        "title": "Advance Customization",
+        "description": "Advance alterations like product filters, color swatches, custom fonts and change images on hover",
+        "price": 75000,
+        "duration": 240,
+        "maxNumWordsPerOneMoreDay": null,
+        "maxNumWordsPerPackageDuration": null,
+        "revisions": {
+          "id": 119443394,
+          "name": "modifications",
+          "included": true,
+          "value": 5,
+          "price": 0,
+          "extra": 5
+        },
+        "extraFast": {
+          "id": 248133238,
+          "name": "extra_fast",
+          "included": false,
+          "duration": 120,
+          "value": 0,
+          "price": 25000,
+          "isPopular": true
+        },
+        "features": [
+          {
+            "id": 119689266,
+            "name": "theme_installation",
+            "duration": 0,
+            "included": true,
+            "label": "Theme installation",
+            "value": 0,
+            "extra": 0,
+            "price": 0,
+            "serviceId": null,
+            "type": "BOOLEAN",
+            "isPopular": false
+          },
+          {
+            "id": 119689267,
+            "name": "plugins_extensions_installation",
+            "duration": 0,
+            "included": true,
+            "label": "Plugins/extensions installation",
+            "value": 3,
+            "extra": 3,
+            "price": 0,
+            "serviceId": null,
+            "type": "NUMERIC",
+            "isPopular": false
+          }
+        ],
+        "calculators": [],
+        "customExtras": []
+      }
+    ],
+    "recurringOptions": [
+      {
+        "id": "622e26d78b92750001ae0a0c",
+        "discountPercentage": 5,
+        "duration": 3,
+        "durationTimeUnit": "time_unit_month"
+      },
+      {
+        "id": "622e26d78b92750001ae0a0d",
+        "discountPercentage": 10,
+        "duration": 6,
+        "durationTimeUnit": "time_unit_month"
+      }
+    ]
+  },
+  "tags": {
+    "tagsGigList": [
+      {
+        "name": "shopify",
+        "slug": "shopify",
+        "formattedClassification": { "type": "tagPage", "key": "shopify" }
+      },
+      {
+        "name": "e-commerce",
+        "slug": "e-commerce",
+        "formattedClassification": { "type": "tagPage", "key": "e-commerce" }
+      },
+      {
+        "name": "shopify website",
+        "slug": "shopify-website",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "shopify-website"
+        }
+      },
+      {
+        "name": "shopify expert",
+        "slug": "shopify-expert",
+        "formattedClassification": {
+          "type": "tagPage",
+          "key": "shopify-expert"
+        }
+      }
+    ]
+  },
+  "overview": {
+    "gig": {
+      "id": 119443276,
+      "title": "install and setup shopify theme with in 24 hours",
+      "rating": 5,
+      "ratingsCount": 43,
+      "ordersInQueue": 1
+    },
+    "seller": {
+      "id": 68245375,
+      "username": "ahmadideas",
+      "achievement": 0,
+      "isPro": true,
+      "hasProfilePhoto": true,
+      "profilePhoto": "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/10f1e9c0724d52a3c66b950301d54e3f-1534173133439/f3f7db56-650b-49af-8409-371b0792f219.png",
+      "countryCode": "PK",
+      "proficientLanguages": [
+        { "name": "en", "level": 3 },
+        { "name": "ur", "level": 4 },
+        { "name": "pa", "level": 4 }
+      ]
+    },
+    "categories": {
+      "category": {
+        "name": "Programming \u0026 Tech",
+        "slug": "programming-tech"
+      },
+      "subCategory": {
+        "name": "E-Commerce Development",
+        "slug": "ecommerce-services"
+      },
+      "nestedSubCategory": {
+        "name": "Theme/Plugin Installation",
+        "slug": "theme-plugin-installation"
+      }
+    }
+  },
+  "pro": { "isPro": true },
+  "topNav": {
+    "gigId": 119443276,
+    "gigTitle": "install and setup shopify theme with in 24 hours",
+    "gigCollectedCount": 578,
+    "sellerId": 68245375,
+    "sellerName": "ahmadideas"
+  },
+  "portfolio": {
+    "slug": "setup-shopify-store-shopify-website-and-shopify-theme-in-24-hours",
+    "username": "ahmadideas",
+    "projectsCount": 7,
+    "nextProjectIds": [
+      "NWI5YzU2M2ZmZWRhNTIwMDBhMDAwMTcw",
+      "NWUzMmJmMTM1YWM5ZWUwMDA5MDAwMWU1"
+    ],
+    "portfolioProjects": [
+      {
+        "id": "NWRmYjI0ZDlkNzRlMDQwMDA5MDAwNTY1",
+        "title": "Alatar - Shopify website",
+        "item": "https://fiverr-res.cloudinary.com/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/attachments/project_item/attachment/e3cfbc0a71d8cd7f183ba2cf51c8ce52-1576740101928/alatarapp.png"
+      },
+      {
+        "id": "NWRmYjI1ZWY5NzQxNjkwMDA5MDAwNWE4",
+        "title": "Taprobaine - Shopify website",
+        "item": "https://fiverr-res.cloudinary.com/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/attachments/project_item/attachment/6a69b719bf10b4c1effaee05de3cda7b-1576740338271/Taprobaine.png"
+      },
+      {
+        "id": "NWI5YzUzNDVmYmNhOGEwMDBhMDAwMTQw",
+        "title": "Thats So Fetch - Shopify website",
+        "item": "https://fiverr-res.cloudinary.com/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/attachments/portfolio_project/item/1c65f6b31eeaab1fe5166de48fb42e94/Thats%20So%20Fetch.png"
+      },
+      {
+        "id": "NWRmYjJmNTc5NzQxNjkwMDA5MDAwNWQx",
+        "title": "Titan Planner - Shopify website",
+        "item": "https://fiverr-res.cloudinary.com/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/attachments/project_item/attachment/9e58e445f73439475a1448f29ef7c5fa-1576742753903/Titan%20Planner.png"
+      },
+      {
+        "id": "NWI5YzRmODYwMTFkY2MwMDBhMDAwMTVi",
+        "title": "Gadgitech - Shopify website",
+        "item": "https://fiverr-res.cloudinary.com/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/attachments/portfolio_project/item/6b47d7aa8d14beac89363812c013a2b7/Gadgitech%20Store.png"
+      }
+    ],
+    "portfolioProjectsThumbs": [
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/attachments/project_item/attachment/e3cfbc0a71d8cd7f183ba2cf51c8ce52-1576740101928/alatarapp.png"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/attachments/project_item/attachment/6a69b719bf10b4c1effaee05de3cda7b-1576740338271/Taprobaine.png"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/attachments/portfolio_project/item/1c65f6b31eeaab1fe5166de48fb42e94/Thats%20So%20Fetch.png"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/attachments/project_item/attachment/9e58e445f73439475a1448f29ef7c5fa-1576742753903/Titan%20Planner.png"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/attachments/portfolio_project/item/6b47d7aa8d14beac89363812c013a2b7/Gadgitech%20Store.png"
+      },
+      {
+        "photo_url": "https://fiverr-res.cloudinary.com/t_portfolio_project_grid,q_auto,f_auto,q_auto,f_auto/attachments/portfolio_project/item/6f0bebbf62aeacc5299406e1a725c336/Encircled.png"
+      }
+    ]
+  },
+  "seo": {
+    "title": {
+      "gigTitle": "install and setup shopify theme with in 24 hours",
+      "sellerUsername": "ahmadideas"
+    },
+    "description": {
+      "sellerAchievement": "no_level",
+      "subCategoryName": "E-Commerce Development",
+      "gigTitle": "install and setup shopify theme with in 24 hours",
+      "serviceInclude": "Theme installation",
+      "deliveryTime": "3 days"
+    },
+    "schemaMarkup": {
+      "type": "Product",
+      "gigTitle": "install and setup shopify theme with in 24 hours",
+      "gigImage": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/119443276/original/57636cbade706ad81411dab3a243c7bd9dbb2bef/setup-shopify-store-shopify-website-and-shopify-theme-in-24-hours.png",
+      "gigRatings": {
+        "type": "AggregateRating",
+        "value": "5.0",
+        "count": "43",
+        "best": "5",
+        "worst": "0"
+      },
+      "gigOffers": {
+        "type": "AggregateOffer",
+        "lowPrice": "350.00",
+        "highPrice": "750.00",
+        "currency": "USD",
+        "availability": "inStock"
+      }
+    }
+  },
+  "customOrder": {
+    "seller": { "status": "active", "isOnVacation": false },
+    "gig": { "status": "approved", "categoryId": 10, "subCategoryId": 139 },
+    "currentUserStatus": "active",
+    "allowCustomOrders": true,
+    "responseTime": 21
+  },
+  "moreServices": {
+    "subCategoryName": "E-Commerce Development",
+    "otherNestedSubCategoryGigs": [
+      {
+        "serviceSlug": "build-a-beautiful-shopify-website-that-converts",
+        "serviceSubcategoryId": 139,
+        "serviceNestedSubcategoryId": 1007,
+        "startPrice": 125000,
+        "serviceTypeName": "Full Website Creation",
+        "serviceTypeCachedSlug": "full-website-creation"
+      },
+      {
+        "serviceSlug": "develop-shopify-custom-pages-custom-codes",
+        "serviceSubcategoryId": 139,
+        "serviceNestedSubcategoryId": 1009,
+        "startPrice": 62500,
+        "serviceTypeName": "Customization",
+        "serviceTypeCachedSlug": "customization"
+      }
+    ]
+  },
+  "otherGigs": { "gigIds": [259504805, 115803280] },
+  "openGraph": {
+    "description": "\u003cp\u003e\u003cstrong\u003eA Bit About Me\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eI am a Shopify certified expert with more than 12 years of experience. I’ve developed websites for different industries including fashion and apparel, electronics, food \u0026amp; grocery, art \u0026amp; painting and mega stores. Also, I’ve developed RTL supported themes for my various clients.\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eWhat you'll get?\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eIf you are new to the world of Shopify and just want to start your online store with a professional theme setup. I'll create your store on development mode and install the most suitable theme with your own content.\u0026nbsp;\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cu\u003eSetup aesthetics\u003c/u\u003e:\u003c/p\u003e\u003cul\u003e\u003cli\u003eColors\u003c/li\u003e\u003cli\u003eTypography\u003c/li\u003e\u003cli\u003eBackgrounds\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cu\u003eSetup page layouts for\u003c/u\u003e:\u003c/p\u003e\u003cul\u003e\u003cli\u003eHomepage\u003c/li\u003e\u003cli\u003eCollection page\u003c/li\u003e\u003cli\u003eProduct page\u003c/li\u003e\u003cli\u003eCart page\u003c/li\u003e\u003cli\u003eCheckout\u003c/li\u003e\u003cli\u003eContact form\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eWork Process\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e\u003cli\u003ePlace an order\u003c/li\u003e\u003cli\u003eProvide business needs, content and discuss work scope\u003c/li\u003e\u003cli\u003eGet your website up and running within 24 hours\u003c/li\u003e\u003cli\u003eReview and launch your store\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eWhy Shopify?\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eShopify provides secure checkout and back-office with SSL installed, where you can manage products, inventory, payments, and shipping very easily.\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003eIf you want help getting there then let’s talk!\u003c/p\u003e",
+    "title": "install and setup shopify theme with in 24 hours",
+    "price": 35000,
+    "image": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/119443276/original/57636cbade706ad81411dab3a243c7bd9dbb2bef/setup-shopify-store-shopify-website-and-shopify-theme-in-24-hours.png",
+    "video": null
+  },
+  "choiceEligibilities": [],
+  "repeatScore": {},
+  "workflow": {
+    "steps": [
+      {
+        "uid": "8853099928259",
+        "order": 1,
+        "packages": [1, 2, 3],
+        "liveSession": true,
+        "buyerReview": false,
+        "predefinedStepId": "6108fc2a413d4a7c43d96abc",
+        "title": "Requirements",
+        "description": "We make sure I have everything I need to complete your project successfully."
+      },
+      {
+        "uid": "2025395228259",
+        "order": 2,
+        "packages": [3, 2, 1],
+        "liveSession": false,
+        "buyerReview": true,
+        "predefinedStepId": "6108fbe7413d4a7c43d96a94",
+        "title": "Content upload",
+        "description": "I'll install your theme and upload content (ex. text, images, videos, and more) to your website. You'll provide content for each page."
+      },
+      {
+        "uid": "1692472228259",
+        "order": 3,
+        "packages": [1, 2, 3],
+        "liveSession": false,
+        "buyerReview": true,
+        "predefinedStepId": "6108fbe7413d4a7c43d96a95",
+        "title": "Final Review",
+        "description": "I'll deliver the final version of the website for your review."
+      },
+      {
+        "uid": "3914311928259",
+        "order": 4,
+        "packages": [1, 2, 3],
+        "liveSession": false,
+        "buyerReview": true,
+        "predefinedStepId": "6108fc2a413d4a7c43d96ac0",
+        "title": "Delivery",
+        "description": "You'll review the final delivery and see if you need changes."
+      }
+    ]
+  },
+  "workProcess": {},
+  "instantOrderSettings": [],
+  "currentUser": {
+    "userId": 33515788,
+    "status": "active",
+    "username": "abdouali",
+    "isReturningBuyer": false,
+    "hasApp": true
+  },
+  "highlightsData": {},
+  "reviews": {
+    "has_next": true,
+    "rating_algo_type": 1,
+    "gig_id": 119443276,
+    "average_valuation": 5,
+    "total_count": 43,
+    "reviews": [
+      {
+        "id": "634f3a16dbe2400001ad25e2",
+        "comment": "We worked with different Agencies, professionals, developers throughout the last five years in e-commerce. And of all these people we worked with, nobody's work was as satisfying as working with Ahmad. He is available every day and delivered his work meeting all deadlines which had been set. If you want a professional partner on your side, regarding to Shopify development, there is no one else on this platform, who can deliver such a performance in this price category. You get the highest quality of work, for a reasonable price. This won't be the last time working together with Ahmad. \n\nThank you for your work, professionalism and especially your kindness throughout the process!",
+        "comment_language": "en",
+        "username": "ardonis_ga",
+        "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/92254cc4cd0c694bef1eea1a33a5507b-1249015541649650314.4655771/EF9444D0-8076-49C5-BAE7-52971AEDE88E",
+        "created_at": "2022-10-28T23:36:37",
+        "value": 5,
+        "reviewer_country_code": "DE",
+        "reviewer_country": "Germany",
+        "encrypted_order_id": "FO3ED391A643",
+        "score": 0.83491147,
+        "reviewer_industry": ["fashion_and_apparel"],
+        "repeat_buyer": false,
+        "is_business": true,
+        "gig_id": 119443276,
+        "relevancy_score": 0.5,
+        "price_range_start": 200,
+        "price_range_end": 400,
+        "reviews_count_as_buyer": 4,
+        "original_relevancy_score": 0.5
+      },
+      {
+        "id": "624f197fcfecd00001098cd3",
+        "comment": "If you want the best - you come to the right place!\nAmazing work!!!",
+        "comment_language": "en",
+        "username": "nivacadury",
+        "user_image_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/ded94d491354d68ae0b80a7f19041fb9-1587173042509/490f9ecc-6f56-493e-b9ff-72990260004c.PNG",
+        "created_at": "2022-04-07T19:26:30",
+        "value": 5,
+        "reviewer_country_code": "IL",
+        "reviewer_country": "Israel",
+        "encrypted_order_id": "FO112AC258387",
+        "score": 0,
+        "repeat_buyer": true,
+        "is_business": false,
+        "gig_id": 119443276,
+        "relevancy_score": 0,
+        "price_range_start": 200,
+        "price_range_end": 400,
+        "reviews_count_as_buyer": 49
+      },
+      {
+        "id": "622be3c4fad30d000129d321",
+        "comment": "Amahd is amazing he does a really good job and he's quick",
+        "comment_language": "en",
+        "username": "parrylaxman",
+        "created_at": "2022-03-12T11:37:43",
+        "value": 5,
+        "reviewer_country_code": "AU",
+        "reviewer_country": "Australia",
+        "encrypted_order_id": "FO2940721442",
+        "score": 0,
+        "reviewer_industry": ["fashion_and_apparel"],
+        "repeat_buyer": true,
+        "is_business": true,
+        "gig_id": 119443276,
+        "relevancy_score": 0,
+        "price_range_start": 100,
+        "price_range_end": 200,
+        "reviews_count_as_buyer": 3
+      },
+      {
+        "id": "61a923fc4e8a40000128f64d",
+        "comment": "Amahd is great to work with. he really delivered on his word.",
+        "comment_language": "en",
+        "username": "parrylaxman",
+        "created_at": "2021-12-12T19:51:47",
+        "value": 5,
+        "reviewer_country_code": "AU",
+        "reviewer_country": "Australia",
+        "encrypted_order_id": "FO28B03CDC42",
+        "score": 0,
+        "reviewer_industry": ["fashion_and_apparel"],
+        "repeat_buyer": true,
+        "is_business": true,
+        "gig_id": 119443276,
+        "relevancy_score": 0,
+        "price_range_start": 200,
+        "price_range_end": 400,
+        "reviews_count_as_buyer": 3
+      },
+      {
+        "id": "6177ba8e3ad19a00019a1156",
+        "comment": "Incredibly responsive and great at understanding exactly what is needed - even when you’re not entirely sure! I highly recommend.",
+        "comment_language": "en",
+        "username": "kandicebotb",
+        "created_at": "2021-11-05T08:20:14",
+        "value": 5,
+        "reviewer_country_code": "GB",
+        "reviewer_country": "United Kingdom",
+        "encrypted_order_id": "FO41167DE6784",
+        "score": 0,
+        "reviewer_industry": ["beauty_and_cosmetics"],
+        "repeat_buyer": true,
+        "is_business": false,
+        "gig_id": 119443276,
+        "relevancy_score": 0,
+        "price_range_start": 100,
+        "price_range_end": 200,
+        "reviews_count_as_buyer": 5,
+        "original_relevancy_score": 0.5
+      }
+    ],
+    "reviews_snippet": [],
+    "star_summary": {
+      "communication_valuation": 5,
+      "recommend_valuation": 5,
+      "service_valuation": 5
+    },
+    "breakdown": [
+      { "average_valuation_value": 1, "count": 0 },
+      { "average_valuation_value": 2, "count": 0 },
+      { "average_valuation_value": 3, "count": 0 },
+      { "average_valuation_value": 4, "count": 0 },
+      { "average_valuation_value": 5, "count": 43 }
+    ],
+    "seller_username": "ahmadideas",
+    "seller_img_url": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/10f1e9c0724d52a3c66b950301d54e3f-1534173133439/f3f7db56-650b-49af-8409-371b0792f219.png",
+    "filters_counters": {
+      "work_sample": 0,
+      "most_common_industries": {
+        "fashion_and_apparel": 6,
+        "beauty_and_cosmetics": 2,
+        "agriculture": 1,
+        "marketing_or_advertising": 1,
+        "events_planning": 1
+      },
+      "business": 9
+    },
+    "dynamicTranslations": {
+      "fashion_and_apparel": "Fashion \u0026 Apparel",
+      "beauty_and_cosmetics": "Beauty \u0026 Cosmetics",
+      "agriculture": "Agriculture",
+      "marketing_or_advertising": "Marketing \u0026 Advertising",
+      "events_planning": "Events \u0026 Celebrations"
+    }
+  },
+  "notableClients": [],
+  "isTrustedFreelancer": false,
+  "seller": {
+    "isHighlyResponsive": false,
+    "introVideo": null,
+    "isVerified": false,
+    "hasLoyaltyScores": false,
+    "vacation": null,
+    "isActive": true,
+    "user": {
+      "id": "68245375",
+      "languages": [{ "code": "EN" }, { "code": "UR" }, { "code": "PA" }]
+    },
+    "isPro": true
+  },
+  "bianka": { "serviceUrl": "https://activity.fiverr.com/" },
+  "currency": {
+    "name": "USD",
+    "rate": 1,
+    "template": "${{amount}}",
+    "forceRound": true,
+    "forceRoundFromAmount": 1000,
+    "symbol": "$"
+  },
+  "rollouts": {
+    "mustangs_business_gig_page": false,
+    "zebras_acq_collection_stepper_gig_page": false,
+    "cobras_gig_returning_buyer_modal": false,
+    "qualas_search_on_review_active": true,
+    "cham_csr_pcp_v_five_routes": true,
+    "cobras_post_fmp_more_gigs": false,
+    "anacondas_gig_page_request_to_order": true,
+    "goats_fmp_encourage_app_download": false,
+    "bulls_gig_page_recommended_carousel_three_gigs": false,
+    "lions_default_mt_translation": true,
+    "caribou_payment_cancellation_info": false,
+    "foxes_drawer_variations_gradual": false,
+    "panthers_fmp_gig_page_voiceover": false
+  }
+}
