@@ -9,7 +9,16 @@ var gigURLFirst = new Array();
 var gigURLAll = new Array();
 var gigURLCounter = new Array();
 var requestBudget = "";
+    
+//AA custom code
+let totalQue = 0;
+let totalOrders = 0;
+let totalPrices = 0;
+let totalGigs = 0;
+let totalGigsOnPage = 0;
+let searchWord = '';
 
+//AA custom code end
 
 $(document).ready(function() {
     var countPages = 0;
@@ -805,6 +814,21 @@ function putGigData(result, gigNum) {
 	<div class="count">' + totalFav + '</div></div>\
 	</div>');
     //$('.gig_listings-package.listing-container .gig-card-layout:eq(' + gigNum + ') .gig-wrapper div.basic-gig-card').append('<span class="total-fav-gig">' + totalFav + '</span>');
+    
+    //AA custom code
+    totalQue = totalQue + runningOrders
+    totalOrders = totalOrders + totalCompOrders
+    totalPrices = totalPrices + result.packages.packageList[0].price 
+    totalGigsOnPage++
+    console.log(
+        searchWord.replace(' ', '_'),
+        totalOrders,
+        (totalPrices/100),
+        totalGigs,
+        (totalGigsOnPage),
+        totalQue,
+    );
+    //AA custom code end
 
 } //end of putGigData function
 function gettingGigDetails() {
